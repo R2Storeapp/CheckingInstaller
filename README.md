@@ -1,6 +1,5 @@
 # CheckingInstaller
 
-# CheckingInstaller
 
 **[ FREE ] CheckingInstaller Extension** 
 
