@@ -3,9 +3,9 @@
 
 **[ FREE ] CheckingInstaller Extension** 
 
-**🌎 Released on :** 11 October 2023
+**🌎 Released on :** 29 October 2023
 
-**🌎 Updated on :** 11 October 2023
+**🌎 Updated on :** 29 October 2023
 
 **⚙️ Latest Version :** 1.0
 
@@ -32,9 +32,9 @@
 > ![blocks](https://github.com/R2Storeapp/CheckingInstaller/assets/147613731/9ae49d90-1b92-47e8-8441-495094557a4f)
 
 ### Download
-> ****🌎 Released on :** 27 October 2023**
+> ****🌎 Released on :** 29 October 2023**
 > 
-> ****🌎 Updated on :** 27 October 2023**
+> ****🌎 Updated on :** 29 October 2023**
 > 
 > ****⚙️ Latest Version :** 1.0**
 >
