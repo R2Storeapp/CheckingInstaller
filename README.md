@@ -5,9 +5,9 @@
 
 **🌎 Released on :** 29 October 2023
 
-**🌎 Updated on :** 29 October 2023
+**🌎 Updated on : 25 November 2023
 
-**⚙️ Latest Version :** 1.0
+**⚙️ Latest Version :** 2 .0
 
 ### All Blocks
 
@@ -34,8 +34,8 @@
 ### Download
 > ****🌎 Released on :** 29 October 2023**
 > 
-> ****🌎 Updated on :** 29 October 2023**
+> ****🌎 Updated on : 25 November 2023
 > 
-> ****⚙️ Latest Version :** 1.0**
+> ****⚙️ Latest Version :** 2.0**
 >
 >[com.R2Store.CheckingInstaller.aix](https://r2storee.000webhostapp.com/r2_Store/website/index.php) (8.3 KB)
